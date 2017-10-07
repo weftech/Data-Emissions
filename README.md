@@ -1,8 +1,8 @@
-#Instruction
+# Instruction
 
 I have vivid memories [growing up](https://www.youtube.com/watch?v=qkM6RJf15cg) of battling [the covenant](http://halo.wikia.com/wiki/Category:Covenant_Species) online in halo and video chatting with family across the country. Over time this love has perpetually grown as my bandwidth has increased from 64KB/s to 120MB/s. Recently, I have taken my data footprint to a new scale by [cutting the cord](http://www.theverge.com/a/online-tv-stream-price-guide) and automating my life with services like [IFTTT](https://ifttt.com/recipes) and [Evernote](https://evernote.com/?var=c). Despite all of this joy between the internet and me, we have an unhealthy relationship and we need to have an intervention.
 
-##The cost of ♥️.
+## The cost of ♥️.
 
 There have been two major events causing me to question my relationship with the internet. One has been my coursework at California College of the Arts that addresses various aspects of sustainability. The second has been reading the May 2015 Greenpeace [Click Clean Report](http://www.greenpeace.org/usa/global-warming/click-clean/#report), which focuses on evaluating the nation's largest data centers based on the methods they use to power themselves.
 
@@ -32,12 +32,12 @@ The idea of our data living in the ‘cloud’ is a positive though misleading m
 
 I want to maintain my relationship with the internet but we need to push for more stringent requirements in evaluating these data centers and the products which they host. [Greenpeace](http://greenpeace.org/), for the last couple of years, has begun to evaluate data centers and give them a grade based on their Transparency, Energy Efficiency & Mitigation, Renewable Energy Deployment & Advocacy, and Renewable Energy Commitment & Siting Policy. [LEED](http://www.usgbc.org/leed) also certifies data centers, but only certifies the building itself. We need to go further, we must go futher. When the time comes for economics to push for a sustainable means of running data centers it will be too late. We cannot wait until we are out of coal or petroleum. We need to act now.
 
-##An Intervention
+## An Intervention
 
 I am not going to stop using the internet, nor is it realistic to think that we should, but there is a necessary level of awareness and action that needs to be taken to prevent our consumption from ravaging our planet. We need to make it more sustainable by setting standards by which we can regulate data centers now and in the future. A portion of this advancement will naturally happen because of routine developments in technology; however, we still need to put standards in place to help propel future technologies in the right direction. 
 
 ---
-#Research
+# Research
 
 > I want to create a platform that centralizes the researching on how data is stored and consumed to build a more sustainable computing network.
 
@@ -59,7 +59,7 @@ Where to focus
 ![](/content/images/2016/04/Set-C---Backblaze-010.jpeg)
 
 
-###Means of evaluation
+### Means of evaluation
 
 ![](/content/images/2016/04/Set-C---Backblaze-009.jpeg)
 
@@ -76,7 +76,7 @@ Where to focus
 ---
 
 
-##Feedback
+## Feedback
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/NpUyCEj2JA29oy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
@@ -105,7 +105,7 @@ Think of it as crowd sourcing knowledge.
 Crowd sourcing knowledge could create an expectation for better standards in terms of influence. In the beginning other companies thought Backblaze was cheating because no one thought of a way to optimize storage because no one could understand we were charging what we were and actually making money.
 
 ---
-#Credits
+# Credits
 
 **For:** [IXDSN-400-01 | IxD 5 Topic Studio: Sustainability](http://www.williamfelker.com)
 
